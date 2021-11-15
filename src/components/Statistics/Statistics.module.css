@@ -1,0 +1,16 @@
+.label {
+  text-align: start;
+  font-size: 1.25em;
+  font-weight: 700;
+}
+
+.label:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+.value {
+  margin-left: 20px;
+
+  font-size: 1.25rem;
+  font-weight: 500;
+}

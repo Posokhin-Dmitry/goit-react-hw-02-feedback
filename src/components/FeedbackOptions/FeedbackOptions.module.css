@@ -1,0 +1,17 @@
+.button {
+  text-decoration: none;
+  display: inline-block;
+  width: 140px;
+  height: 45px;
+  border-radius: 45px;
+  margin: 10px 20px;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 3px;
+  font-weight: 600;
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+  transition: 0.3s;
+}
+.button:hover {
+  transform: translateY(-7px);
+}
